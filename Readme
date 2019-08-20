@@ -15,11 +15,11 @@ classical iterative procedure by the means of proximal gradient algorithm. Exper
 comparisons on different sampling trajectories and ratios validated the great potential 
 of the presented algorithm. 
 ### Fig.1
-![repeat-WDAEPRec](https://https://https://github.com/yqx7150/WDAEPRec/tree/master/fig/fig1.png)
+![repeat-WDAEPRec](https://github.com/yqx7150/WDAEPRec/tree/master/fig/fig1.png)
 ### Fig.2
-![repeat-WDAEPRec](https://https://https://github.com/yqx7150/WDAEPRec/tree/master/fig/fig2.png)
+![repeat-WDAEPRec](https://github.com/yqx7150/WDAEPRec/tree/master/fig/fig2.png)
 ### Fig.3
-![repeat-WDAEPRec](https://https://https://github.com/yqx7150/WDAEPRec/tree/master/fig/table1.png)
+![repeat-WDAEPRec](https://github.com/yqx7150/WDAEPRec/tree/master/fig/table1.png)
 ## Requirements and Dependencies
     MATLAB R2016b
     Cuda-9.0
