@@ -17,3 +17,19 @@ Compressive sensing is an impressive approach for fast MRI. It aims at reconstru
     Pretrained Model
     (https://pan.baidu.com/s/1Aa22avm0499VWq7kMvuoXA Password：sjuu)
     
+## [<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/1909/1909.01108.pdf)
+        @article{wang2019denoising,
+        title={Denoising Auto-encoding Priors in Undecimated Wavelet Domain for MR Image Reconstruction},
+        author={Wang, Siyuan and Lv, Junjie and Hu, Yuanyuan and Liang, Dong and Zhang, Minghui and Liu, Qiegen},
+        journal={arXiv preprint arXiv:1909.01108},
+        year={2019}
+        }
+## Other Related Projects
+  * Multi-Channel and Multi-Model-Based Autoencoding Prior for Grayscale Image Restoration  
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8782831)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MEDAEP)
+
+  * Highly Undersampled Magnetic Resonance Imaging Reconstruction using Autoencoding Priors  
+[<font size=5>**[Paper]**</font>](https://cardiacmr.hms.harvard.edu/files/cardiacmr/files/liu2019.pdf)  [<font size=5>**[Code]**</font>](https://github.com/yqx7150/EDAEPRec)
+
+  * Learning Priors in High-frequency Domain for Inverse Imaging Reconstruction  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/1910/1910.11148.pdf)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HFDAEP)
