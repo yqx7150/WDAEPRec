@@ -36,3 +36,6 @@ Compressive sensing is an impressive approach for fast MRI. It aims at reconstru
  
   * Learning Multi-Denoising Autoencoding Priors for Image Super-Resolution  
 [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S1047320318302700)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MDAEP-SR)
+
+  * REDAEP: Robust and Enhanced Denoising Autoencoding Prior for Sparse-View CT Reconstruction  
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433213)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/REDAEP)
