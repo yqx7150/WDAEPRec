@@ -19,11 +19,11 @@ Compressive sensing is an impressive approach for fast MRI. It aims at reconstru
     (https://pan.baidu.com/s/1Aa22avm0499VWq7kMvuoXA Password：sjuu)
     
 ## [<font size=5>**[Paper]**</font>](https://arxiv.org/ftp/arxiv/papers/1909/1909.01108.pdf)
-        @article{wang2019denoising,
+        @article{wang2021WDAEPRec,
         title={Denoising Auto-encoding Priors in Undecimated Wavelet Domain for MR Image Reconstruction},
         author={Wang, Siyuan and Lv, Junjie and Hu, Yuanyuan and Liang, Dong and Zhang, Minghui and Liu, Qiegen},
-        journal={arXiv preprint arXiv:1909.01108},
-        year={2019}
+        journal={Neurocomputing},
+        year={2021}
         }
 ## Other Related Projects
   * Multi-Channel and Multi-Model-Based Autoencoding Prior for Grayscale Image Restoration  
