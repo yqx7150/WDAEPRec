@@ -37,6 +37,9 @@ Compressive sensing is an impressive approach for fast MRI. It aims at reconstru
  
   * Homotopic Gradients of Generative Density Priors for MR Image Reconstruction  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/9435335)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HGGDP)   [<font size=5>**[数学图像联盟会议交流PPT]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
+
+   * One-shot Generative Prior in Hankel-k-space for Parallel Imaging Reconstruction  
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/10158730)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HKGM)   [<font size=5>**[PPT]**</font>](https://github.com/yqx7150/HKGM/tree/main/PPT)
   
   * Deep Frequency-Recurrent Priors for Inverse Imaging Reconstruction  
 [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/pii/S0165168421003571)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HFDAEP)
