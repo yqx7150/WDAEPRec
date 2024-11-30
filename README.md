@@ -26,6 +26,9 @@ Compressive sensing is an impressive approach for fast MRI. It aims at reconstru
         year={2021}
         }
 ## Other Related Projects
+
+<div align="center"><img src="https://github.com/yqx7150/HKGM/blob/main/PPT/All-MRI.png" >  </div>   
+    
   * Multi-Channel and Multi-Model-Based Autoencoding Prior for Grayscale Image Restoration  
 [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8782831)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/MEDAEP)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)   [<font size=5>**[数学图像联盟会议交流PPT]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
 
